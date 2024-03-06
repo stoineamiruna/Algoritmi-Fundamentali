@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706176068 source:c:\users\miru\desktop\algoritmi fundamentali\colocviu_af\ex3\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<fstream>
+
